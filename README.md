@@ -4,7 +4,7 @@
 
 🎓 I hold a degree in Mechanical Engineering and have honed my skills in Python, SQL, and data visualization tools like Power BI and Tableau.
 
-💡 Fascinated by the intersection of data and decision-making, I'm particularly interested in Supervised Machine Learning .
+💡 Fascinated by the intersection of data and decision-making, I'm particularly interested in Data Visualisation & Supervised Machine Learning .
 
 🌱 I'm always exploring new datasets and techniques to expand my knowledge and stay ahead in the dynamic world of data analysis.
 
