@@ -1,6 +1,6 @@
- Hi there! I'm Rohan Sharma, a passionate data analyst with a knack for transforming raw data into actionable insights.
+ Hi there! I'm Rohan Sharma, a passionate data enthusiast currently transitioning to a data analyst role
 
-💼 Currently transitioning to a data analyst role, bringing almost a year of experience in manufacturing.
+💼 Bringing nearly a year of experience in manufacturing, I am eager to apply my analytical skills in a full-fledged data analyst position.
 
 🎓 I hold a degree in Mechanical Engineering and have honed my skills in Python, SQL, and data visualization tools like Power BI and Tableau.
 
